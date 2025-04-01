@@ -10,4 +10,6 @@ theme:
     - scheme: slate
       primary: orange
       accent: orange
-    
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.tabbed
