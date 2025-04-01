@@ -1,0 +1,13 @@
+site_name: Knowledge Base
+theme: 
+  name: material
+  language: de
+  features:
+    - toc.integrate
+    - content.tabs.link
+    - search.highlight
+  palette:
+    - scheme: slate
+      primary: orange
+      accent: orange
+    
