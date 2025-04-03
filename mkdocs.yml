@@ -3,9 +3,15 @@ theme:
   name: material
   language: de
   features:
-    - toc.integrate
+    #- toc.integrate
+    - search.suggest
     - content.tabs.link
     - search.highlight
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.expand
+    - navigation.tracking
+    #- navigation.sections
   palette:
     - scheme: slate
       primary: orange
