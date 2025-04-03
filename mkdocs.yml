@@ -9,9 +9,11 @@ theme:
     - search.highlight
     - navigation.tabs
     - navigation.tabs.sticky
-    - navigation.expand
+    #- navigation.expand
     - navigation.tracking
     #- navigation.sections
+  toc:
+    depth: 2
   palette:
     - scheme: slate
       primary: orange
@@ -20,4 +22,8 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed
 
-
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/mavzlais/knowledge-base
+copyright: 'This work is licensed under the <a href="https://www.gnu.org/licenses/gpl-3.0.html">GNU General Public License v3</a>.'
