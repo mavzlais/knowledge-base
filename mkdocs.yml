@@ -12,7 +12,7 @@ theme:
     #- navigation.expand
     - navigation.tracking
     #- navigation.sections
-    #- content.footnote.tooltips
+    - content.footnote.tooltips
   toc:
     depth: 2
   palette:
@@ -23,7 +23,7 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed
   - footnotes
-
+site_url: https://mavzlais.github.io/knowledge-base
 
 extra:
   social:
