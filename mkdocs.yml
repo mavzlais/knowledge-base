@@ -12,7 +12,7 @@ theme:
     #- navigation.expand
     - navigation.tracking
     #- navigation.sections
-    - content.footnote.tooltips
+    #- content.footnote.tooltips
   toc:
     depth: 2
   palette:
