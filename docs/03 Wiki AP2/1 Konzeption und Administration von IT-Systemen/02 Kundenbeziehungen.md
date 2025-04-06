@@ -8,4 +8,4 @@ Testlink [^1]
 ### 02.04 Compliance
 ### 02.05 Regelkonformität
 ### 02.06 Customer Relationship Management
-[^1]: https://www.bpb.de/kurz-knapp/lexika/politiklexikon/17270/buergerliches-gesetzbuch-bgb/
+[^1]: [https://www.bpb.de/kurz-knapp/lexika/politiklexikon/17270/buergerliches-gesetzbuch-bgb/](https://www.bpb.de/kurz-knapp/lexika/politiklexikon/17270/buergerliches-gesetzbuch-bgb/)
