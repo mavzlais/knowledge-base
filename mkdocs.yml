@@ -6,24 +6,25 @@ theme:
     #- toc.integrate
     - search.suggest
     - content.tabs.link
-    - search.highlight
+    #- search.highlight
     - navigation.tabs
     - navigation.tabs.sticky
     #- navigation.expand
     - navigation.tracking
     #- navigation.sections
     - content.footnote.tooltips
-  toc:
-    depth: 2
   palette:
       scheme: slate
       primary: orange
       accent: orange
+  
 
 markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed
   - footnotes
+  - toc:
+      toc_depth: 2
 
 site_url: https://mavzlais.github.io/knowledge-base
 
@@ -45,3 +46,4 @@ nav:
     - Konzeption und Administration:
       - Inhalt: 02_wiki_ap2/1_konzeption_und_administration_von_it-systemen/index.md
       - Kommunikation: 02_wiki_ap2/1_konzeption_und_administration_von_it-systemen/01_kommunikation.md
+      - Kundenbeziehungen: 02_wiki_ap2/1_konzeption_und_administration_von_it-systemen/02_kundenbeziehungen.md
