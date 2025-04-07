@@ -38,6 +38,7 @@ repo_url: https://github.com/mavzlais/knowledge-base
 repo_name: mavzlais/knowledge-base
 
 nav:
+  - Home: 01_willkommen/index.md
   - Wilkommen: 
     - Inhalt:  01_willkommen/index.md
   
