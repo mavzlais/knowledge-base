@@ -1,1 +1,0 @@
-## 01 Aktives Zuhören, Kommunikationsmodelle (z.B. Telefonkonferenzen, Chat, virtuelle Teambesprechung), Verkaufsgespräche (Anfrage, Angebot, Auftrag), Analyse der Kundenbedürfnisse --> nicht Bestandteil der schriftlichen Prüfung

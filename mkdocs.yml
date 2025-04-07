@@ -16,7 +16,7 @@ theme:
   toc:
     depth: 2
   palette:
-    - scheme: slate
+      scheme: slate
       primary: orange
       accent: orange
 
@@ -24,6 +24,7 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed
   - footnotes
+
 site_url: https://mavzlais.github.io/knowledge-base
 
 extra:
@@ -35,3 +36,13 @@ copyright: 'This work is licensed under the <a href="https://www.gnu.org/license
 
 repo_url: https://github.com/mavzlais/knowledge-base
 repo_name: mavzlais/knowledge-base
+
+nav:
+  - Wilkommen: 
+    - Inhalt:  01_willkommen/index.md
+  
+  - Wiki AP2:
+    - Inhalt: 02_wiki_ap2/index.md
+    - Konzeption und Administration:
+      - Inhalt: 02_wiki_ap2/1_konzeption_und_administration_von_it-systemen/index.md
+      - Kommunikation: 02_wiki_ap2/1_konzeption_und_administration_von_it-systemen/01_kommunikation.md
