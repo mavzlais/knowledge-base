@@ -13,10 +13,24 @@ theme:
     - navigation.tracking
     #- navigation.sections
     - content.footnote.tooltips
+    #- navigation.footer
   palette:
-      scheme: slate
+    - scheme: slate
       primary: orange
       accent: orange
+      toggle:
+        icon: material/toggle-switch
+        name: Light Mode
+
+    - scheme: default
+      primary: blue grey
+      accent: blue grey
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Dark Mode
+  font: 
+    text: Montserrat
+
   
 
 markdown_extensions:
@@ -32,6 +46,7 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/mavzlais/knowledge-base
+  
 
 copyright: 'This work is licensed under the <a href="https://mit-license.org/">MIT License</a>.'
 
