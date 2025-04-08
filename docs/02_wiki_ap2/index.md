@@ -1,0 +1,1 @@
+Mein Ziel ist es, eine möglichst **ausführliche, verständliche und inhaltlich korrekte** Informationsquelle für die Vorbereitung auf die AP Teil 2 in der Ausbildung zum *Fachinformatiker für Systemintegration* zu schaffen.
