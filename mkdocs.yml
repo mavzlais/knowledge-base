@@ -33,7 +33,7 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/mavzlais/knowledge-base
 
-copyright: 'This work is licensed under the <a href="https://www.gnu.org/licenses/gpl-3.0.html">GNU General Public License v3</a>.'
+copyright: 'This work is licensed under the <a href="https://mit-license.org/">MIT License</a>.'
 
 repo_url: https://github.com/mavzlais/knowledge-base
 repo_name: mavzlais/knowledge-base
