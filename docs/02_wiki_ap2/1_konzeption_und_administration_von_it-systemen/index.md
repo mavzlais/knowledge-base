@@ -8,4 +8,4 @@
 > 
 > 4. Programme zur automatisierten Systemverwaltung zu erstellen. [^1]
 
-[^1]: [FIAusbV - Verordnung über die Berufsausbildung zum Fachinformatiker und zur Fachinformatikerin*](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#:~:text=%C2%A7%2021%C2%A0Pr%C3%BCfungsbereich%20Konzeption%20und%20Administration%20von%20IT%2DSystemen)
+[^1]: [FIAusbV - Verordnung über die Berufsausbildung zum Fachinformatiker und zur Fachinformatikerin, § 21, (1)](https://www.gesetze-im-internet.de/fiausbv/BJNR025000020.html#:~:text=%C2%A7%2021%C2%A0Pr%C3%BCfungsbereich%20Konzeption%20und%20Administration%20von%20IT%2DSystemen)
