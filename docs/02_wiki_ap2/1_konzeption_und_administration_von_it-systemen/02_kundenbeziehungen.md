@@ -19,6 +19,7 @@ Auch das HGB besteht aus 5 Büchern:
 3. **Buch**: Handelsbücher (Buchführung, Jahresabschluss usw.)
 4. **Buch**: Handelsgeschäfte (Vertragsschluss, Vertragsfreiheit, Allgemeines Schuldrecht usw.)
 5. **Buch**: Seehandel[^4]
+---
 ## Gesetz gegen unlauteren Wettbewerb (UWG)
 Unlauter Wettbewerb umfasst alle Aktivitäten, die im Sinne des Wettbewerbs als unfair gelten und verboten sind. Die Einstufung in unfair und fair basiert dabei auf dem Wettbewerbsrecht. [^6] 
 ### Was gilt als unlauterer Wettbewerb?
@@ -33,6 +34,7 @@ Beispiele für unlautere Verhaltensweisen:
 - Anschwärzen von Mitbewerbern
 - Werbung in Form von Gewinnspielen
 - Behinderung des Absatzes von Mitbewerbern[^5][^6]
+---
 ## AGB
 >Allgemeine Geschäftsbedingungen sind alle für eine Vielzahl von Verträgen vorformulierten Vertragsbedingungen, die eine Vertragspartei (Verwender) der anderen Vertragspartei bei Abschluss eines Vertrags stellt. (§ 305 BGB (1))[^7]
 
@@ -46,6 +48,8 @@ AGB sind solange rechtsverbindlich, bis sie gegen geltende Recht und/oder Gesetz
 ## Compliance
 ## Regelkonformität
 ## Customer Relationship Management
+
+
 [^1]: [https://www.bpb.de/kurz-knapp/lexika/politiklexikon/17270/buergerliches-gesetzbuch-bgb/](https://www.bpb.de/kurz-knapp/lexika/politiklexikon/17270/buergerliches-gesetzbuch-bgb/)
 [^2]: [►BGB: Zentrale Gesetzbuch des allgemeinen Privatrechts](https://www.ibau.de/akademie/glossar/bgb/)
 [^3]: [Handelsgesetzbuch: Das steht im HGB | Lexware](https://www.lexware.de/wissen/unternehmerlexikon/hgb-handelsgesetzbuch/#:~:text=Die%20Abk%C3%BCrzung%20HGB%20steht%20f%C3%BCr,Gliederung%20besteht%20aus%20f%C3%BCnf%20B%C3%BCchern.)
