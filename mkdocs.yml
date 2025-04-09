@@ -29,7 +29,7 @@ theme:
         icon: material/toggle-switch-off-outline
         name: Dark Mode
   font: 
-    text: Montserrat
+    #text: Montserrat
 
   
 
@@ -37,6 +37,7 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed
   - footnotes
+  - def_list
   - toc:
       toc_depth: 2
 

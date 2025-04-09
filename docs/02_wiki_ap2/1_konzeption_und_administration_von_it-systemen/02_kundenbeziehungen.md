@@ -5,15 +5,18 @@
 Das BGB fasst fast alle Rechtsnormen, die Beziehungen von Individuen untereinander regeln, zusammen. Also das Privatrecht (bürgerliches Recht und Zivilrecht).[^1]
 
 Es besteht aus 5 Büchern:
+
 1. **Buch**: Wesentliche Grundlagen, die für die Bücher 2 bis 5 gelten.
 2. **Buch**: Vertragliche Schuldverhältnisse (Miet-, Kaufvertrag, Deliktsrecht)
 3. **Buch**: Sachrecht (Eigentums-, Besitzrechte)
 4. **Buch**: Regelungen zum Familienrecht
 5. **Buch**: Gesetze des Erbrechts[^2]
+
 ### HGB (Handelsgesetzbuch)
 Das HGB regelt die Grundlage des deutschen Handelsrechts. Gültig ist es für alle Gewerbe, die im Handelsregister eingetragen sind.[^3] Es enthält das Sonderrecht für Kaufleute und Gewerbetreibende und ist Bestandteil des Privatrechts in Deutschland, welches wiederum durch das BGB geregelt ist. Gibt es einen Konflikt zwischen BGB und HGB, gilt für einen Kaufmann das HGB. Dort sind Regeln für OHG (Offene Handelsgesellschaft), KG (Kommanditgesellschaft) und die stille Gesellschaft dargelegt, GmbH und AG werden in separaten Gesetzen geregelt..[^4]
 
 Auch das HGB besteht aus 5 Büchern:
+
 1. **Buch**: Handelsstand (bspw. Begriff des Kaufmann, Bestimmungen über Handelsregister)
 2. **Buch**: Handelsgesellschaften und stille Gesellschaft (Kernbestand des Recht der Personengesellschaften)
 3. **Buch**: Handelsbücher (Buchführung, Jahresabschluss usw.)
@@ -26,6 +29,7 @@ Unlauter Wettbewerb umfasst alle Aktivitäten, die im Sinne des Wettbewerbs als 
 Während Wettbewerb die wirtschaftliche Basis bildet, muss dieser unter bestimmten Regeln ablaufen. Dabei basiert es mehr oder weniger auf guten Sitten. Anders gesagt: gerecht denkende Wettbewerber würden sich aus freien Stücken so verhalten, wie es das UWG vorgibt.[^6]
 
 Beispiele für unlautere Verhaltensweisen:
+
 - aggressive Verkaufsmethoden
 - vergleichende Werbung
 - Verwertung von fremden Leistungsergebnissen
