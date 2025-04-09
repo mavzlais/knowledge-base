@@ -33,8 +33,16 @@ Beispiele für unlautere Verhaltensweisen:
 - Anschwärzen von Mitbewerbern
 - Werbung in Form von Gewinnspielen
 - Behinderung des Absatzes von Mitbewerbern[^5][^6]
+## AGB
+>Allgemeine Geschäftsbedingungen sind alle für eine Vielzahl von Verträgen vorformulierten Vertragsbedingungen, die eine Vertragspartei (Verwender) der anderen Vertragspartei bei Abschluss eines Vertrags stellt. (§ 305 BGB (1))[^7]
 
-## AGB-Gesetz
+Anders formuliert sind die AGB alle Bedingungen und Regeln, die ein Unternehmen für seine Produkte und Dienstleistungen festlegt. Es geht um Pflichten und Rechte beider Parteien (bspw. Unternehmen und Kunden). Sie regeln die Rechtsbeziehungen zwischen den beiden eindeutig und können so Missverständnisse und Unklarheiten vermeiden.[^8]
+
+AGB sind solange rechtsverbindlich, bis sie gegen geltende Recht und/oder Gesetze verstoßen.[^8]
+### Beispielangaben
+1. **Widerrufsbelehrung** (Wie kann der Kunde einen Widerruf tätigen)
+2. **Preisgestaltung** (Sind Preise exklusive oder inklusive Umsatzsteuer zu verstehen)
+3. **Eigentumsvorbehalt** (Solange der Kunde nicht den vollen Kaufpreis gezahlt hat, sollte sich das Unternehmen das Eigentum an der Ware vorbehalten)[^9]
 ## Compliance
 ## Regelkonformität
 ## Customer Relationship Management
@@ -44,3 +52,6 @@ Beispiele für unlautere Verhaltensweisen:
 [^4]: [HGB - Handelsgesetzbuch einfach erklärt - microtech.de](https://www.microtech.de/erp-wiki/hgb-handelsgesetzbuch/)
 [^5]: [⁣Gesetz gegen den unlauteren Wettbewerb - IHK Osnabrück - Emsland - Grafschaft Bentheim](https://www.ihk.de/osnabrueck/recht-und-fair-play/wettbewerb/uwg-1074360)
 [^6]: [Unlauterer Wettbewerb: Definition, Gesetzte & Konsequenzen](https://office.lexware.de/lexikon/unlauterer-wettbewerb/)
+[^7]: https://www.juraforum.de/gesetze/bgb/305-einbeziehung-allgemeiner-geschaeftsbedingungen-in-den-vertrag
+[^8]: https://www.juraforum.de/lexikon/allgemeine-geschaeftsbedingungen#was-sind-agb-und-warum-sind-sie-wichtig
+[^9]: https://www.firma.de/unternehmensfuehrung/was-sind-agbs-definition-klauseln-gesetzliche-vorschriften/#inhalt
