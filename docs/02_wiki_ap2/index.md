@@ -1,3 +1,3 @@
 Mein Ziel ist es, eine möglichst **ausführliche und verständliche** Informationsquelle für die Vorbereitung auf die AP Teil 2 in der Ausbildung zum *Fachinformatiker für Systemintegration* zu schaffen.
 
-Dabei beruhen die hier aufgeführten Informationen lediglich auf meiner eigenen Recherche, deren Quellen überall aufgeführt sind, damit ihr selbst überprüfen könnt, woher sie stamen. Ich übernehme keine Verantwortung für die Korrektheit.
+Dabei beruhen die hier aufgeführten Informationen lediglich auf meiner eigenen Recherche. Die zugehörigen  Quellen führe ich jeweils in den Fußnoten auf, damit ihr selbst überprüfen könnt, wie die Sammlung zustande gekommen ist. Ich übernehme natürlich keine Verantwortung für die Korrektheit der Informationen.

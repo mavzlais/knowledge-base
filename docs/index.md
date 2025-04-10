@@ -1,3 +1,1 @@
-Diese Sammlung soll dazu dienen, thematisch gut auf die AP2 der Ausbildung zum Fachinformatiker für Systemintegration vorbereitet zu sein.
-
-Zusätzlich wird eine Knowledge Base für den CCNA dazukommen.
+Diese Sammlung soll dazu dienen, verschiedene (hauptsächlich IT-spezifische) Informationen für relevante Prüfungen oder Zertifikate zu sammeln.
