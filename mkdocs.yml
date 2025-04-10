@@ -8,7 +8,7 @@ theme:
     - content.tabs.link
     #- search.highlight
     - navigation.tabs
-    - navigation.tabs.sticky
+    #- navigation.tabs.sticky
     #- navigation.expand
     - navigation.tracking
     #- navigation.sections
@@ -57,9 +57,11 @@ repo_name: mavzlais/knowledge-base
 nav:
   - Willkommen: index.md 
   
-  - Wiki AP2:
-    - Inhalt: 02_wiki_ap2/index.md
-    - Konzeption und Administration:
-      - Inhalt: 02_wiki_ap2/1_konzeption_und_administration_von_it-systemen/index.md
-      #- Kommunikation: 02_wiki_ap2/1_konzeption_und_administration_von_it-systemen/01_kommunikation.md
-      - Kundenbeziehungen: 02_wiki_ap2/1_konzeption_und_administration_von_it-systemen/02_kundenbeziehungen.md
+  - Fachinformatiker Systemintegration:
+    - Inhalt: 02_fisi/index.md
+    - Prüfungsvorbereitung AP2:
+      #- Themen: 02_fisi/wiki_ap2/index.md
+      - Konzeption und Administration:
+        #- Inhalt: wiki_ap2/1_konzeption_und_administration_von_it-systemen/index.md
+        - Kommunikation: 02_fisi/wiki_ap2/01_konzeption_und_administration_von_it-systemen/01.01_kommunikation.md
+        - Kundenbeziehungen: 02_fisi/wiki_ap2/01_konzeption_und_administration_von_it-systemen/01.02_kundenbeziehungen.md
